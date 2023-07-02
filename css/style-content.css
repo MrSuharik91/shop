@@ -10,6 +10,10 @@ header{
    background-position: center;
    background-size: cover;
 }
+.under-header a{
+    text-decoration: none;
+    color:#FFF;
+}
 .header-wrapper{
     width:67.5%;
     display: flex;
@@ -215,6 +219,10 @@ footer{
     width:100%;
     position: relative;
     height:365px;
+}
+footer ul li a{
+    text-decoration: none;
+    color:#FFF;
 }
 footer ul{
     list-style-type: square;
