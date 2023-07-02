@@ -223,6 +223,9 @@ footer ul{
     gap:20px;
     color: #FFF;
 }
+.up-footer{
+    margin-bottom:120px;
+}
 .wrapper-footer{
     display: grid;
     grid-template-columns:1fr 1fr 1fr 1fr;
